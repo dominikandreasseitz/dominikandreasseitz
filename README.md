@@ -1,8 +1,8 @@
 ## Hi there 👋
 I'm Dominik, a software engineer with a focus in Machine Learning.
 I currently work as a senior software engineer at [PASQAL](https://pasqal.com) on quantum machine learning.
-Contact me via [Email](mailto:dominik.andreas.seitz@gmail.com)<br> or
-[LinkedIn](https://www.linkedin.com/in/dominik-andreas-seitz-0689/)<br>
+Contact me via [Email](mailto:dominik.andreas.seitz@gmail.com) or
+[LinkedIn](https://www.linkedin.com/in/dominik-andreas-seitz-0689/).
 
 ### AutoDiff
 I enjoy working with automatic differentiation engines like torch and JAX. During my time as Pasqal, I developed several custom vjps and jvps and I am working on documentating my learning process [here](https://github.com/dominikandreasseitz/custom_jvp_vjp_tutorials).
