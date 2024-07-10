@@ -7,12 +7,12 @@ Contact me via [Email](mailto:dominik.andreas.seitz@gmail.com)<br> or
 ### AutoDiff
 I enjoy working with automatic differentiation engines like torch and JAX. During my time as Pasqal, I developed several custom vjps and jvps and I am working on documentating my learning process [here](https://github.com/dominikandreasseitz/custom_jvp_vjp_tutorials).
 
-### Algorithmic Game Theory and Reinforcment Learning Research
+### Research in Algorithmic Game Theory and Reinforcement Learning
 I have previously worked in algorithmic game theory research focussing on solving large partially-observable games which most notably lead to a Artificial Intelligence journal [publication](https://doi.org/10.1016/j.artint.2022.103805).
 
 Check out my [scholar](https://scholar.google.com/citations?user=iLP6ouIAAAAJ&hl=en&oi=ao) profile to view my other papers.
 
-### Open-source Quantum Machine Learning software
+### Open-source contributions
 At [Pasqal](https://pasqal.com), I was responsible for the development and optimization of their main torch-based computational backend [pyqtorch](https://github.com/pasqal-io/pyqtorch) and their JAX backend [horqrux](https://github.com/pasqal-io/horqrux).
 
 I was also part of the scientific software library for quantum machine learning, [Qadence](https://github.com/pasqal-io/qadence). 
