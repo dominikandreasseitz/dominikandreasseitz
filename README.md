@@ -4,8 +4,11 @@ I currently work as a senior software engineer at [PASQAL](https://pasqal.com) o
 Contact me via [Email](mailto:dominik.andreas.seitz@gmail.com) or
 [LinkedIn](https://www.linkedin.com/in/dominik-andreas-seitz-0689/).
 
-### AutoDiff
-I enjoy working with automatic differentiation engines like torch and JAX. During my time as Pasqal, I developed several custom vjps and jvps and I am working on documentating my learning process [here](https://github.com/dominikandreasseitz/custom_jvp_vjp_tutorials).
+## Some cool stuff I worked on
+### Custom jvps and vjps in JAX [example](https://github.com/pasqal-io/horqrux/blob/main/horqrux/adjoint.py)
+### Custom vjps in torch [example](https://github.com/pasqal-io/pyqtorch/blob/main/pyqtorch/adjoint.py)
+### General custom jvp and vjp tutorials [here](https://github.com/dominikandreasseitz/custom_jvp_vjp_tutorials)
+### A generic interface to create arbitrary differentiable parameter expressions in JAX and torch [here](https://github.com/pasqal-io/pyqtorch/blob/main/pyqtorch/embed.py)
 
 ### Research in Algorithmic Game Theory and Reinforcement Learning
 I have previously worked in algorithmic game theory research focussing on solving large partially-observable games which most notably lead to a Artificial Intelligence journal [publication](https://doi.org/10.1016/j.artint.2022.103805).
