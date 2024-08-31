@@ -1,6 +1,5 @@
 ## Hi there 👋
 I'm Dominik, a software engineer with a focus in Machine Learning.
-I currently work as a senior software engineer at [PASQAL](https://pasqal.com) on quantum machine learning.
 Contact me via [Email](mailto:dominik.andreas.seitz@gmail.com) or
 [LinkedIn](https://www.linkedin.com/in/dominik-andreas-seitz-0689/).
 
